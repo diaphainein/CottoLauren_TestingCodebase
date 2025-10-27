@@ -1,0 +1,24 @@
+{
+  "name": "cottolauren_testingcodebase",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diaphainein/CottoLauren_TestingCodebase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diaphainein/CottoLauren_TestingCodebase/issues"
+  },
+  "homepage": "https://github.com/diaphainein/CottoLauren_TestingCodebase#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
